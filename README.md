@@ -36,6 +36,6 @@ The pipeline requires these Python libraries:
 - rtree
 - scipy
 
-You can install them with:
+One can install them with:
 ```bash
 pip install numpy pandas matplotlib scikit-learn rtree scipy
